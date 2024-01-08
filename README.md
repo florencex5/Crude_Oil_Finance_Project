@@ -1,4 +1,4 @@
-# Crude_Oil_Finance_Project
+# Crude Oil Within the Context of Oligopoly Market
 
 ### The Problem: 
 - What insights can be gleaned from the variance in crude oil prices within the context of oligopoly market?
